@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/AbolfazlAmiri1998/AbolfazlAmiri1998/main/banner.png](https://github.com/AbolfazlAmiri1998/AbolfazlAmiri1998/blob/ded60a8b2adc2406c94c64371ded20df00c6d4ab/Add%20banner%20image)" width="100%" alt="Profile Banner">
-</div>
 👋 Abolfazl Amiri 
 **MSc Student in Condensed Matter Physics**  
 *Materials & Energy Research Center (MERC), Karaj*
