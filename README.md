@@ -25,9 +25,8 @@ Currently researching the **Boltzmann equation and foundations of statistical th
 - Statistical Thermodynamics
 
 ### 💻 Computational Skills
-- **Programming:** Python, MATLAB
+- **Programming:** Python
 - **Symbolic Computation:** Mathematica
-- **Data Analysis:** NumPy, Matplotlib
 - **Scientific Writing:** LaTeX
 
 ---
