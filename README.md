@@ -1,4 +1,3 @@
-https://github.com/AbolfazlAmiri1998/AbolfazlAmiri1998/blob/54398c999ae76e89fa6add75695e7f08fe156f42/banner.jpg/banner.jpg
 👋 Abolfazl Amiri 
 **MSc Student in Condensed Matter Physics**  
 *Materials & Energy Research Center (MERC), Karaj*
