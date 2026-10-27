@@ -56,5 +56,5 @@ This project investigates how the temporal behavior of single-qubit von Neumann 
 ## 📫 Contact & Links
 
 - **Email:** amiriabolfazl1998@gmail.com
-- **LinkedIn:** [Abolfazl Amiri](https://www.linkedin.com/in/abolfazlamiri1998/) *(Update with your exact custom URL)*
+- **LinkedIn:** [Abolfazl Amiri](https://www.linkedin.com/in/abolfazl-amiri-59a234323/)
 - **GitHub:** [AbolfazlAmiri1998](https://github.com/AbolfazlAmiri1998)
