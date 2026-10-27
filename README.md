@@ -1,95 +1,65 @@
-![banner](https://github.com/AbolfazlAmiri1998/AbolfazlAmiri1998/blob/main/banner.jpg?raw=true)
+# Abolfazl Amiri
 
-### 👋 Abolfazl Amiri
+**Condensed Matter Physics | Statistical Physics | Computational Physics**
 
-**MSc Student in Condensed Matter Physics**  
-*Materials & Energy Research Center (MERC), Karaj*
+My background is in condensed matter physics, and my research interests lie at the intersection of statistical physics, quantum dynamics, and computational physics.
 
----
+My research interests are mainly around the connections between microscopic dynamics, statistical correlations, and effective descriptions of many-particle systems.
 
-## 📚 Research Interests
+## Research Interests
 
-Currently researching the **Boltzmann equation and foundations of statistical thermodynamics**. Interested in understanding the connection between quantum mechanics and thermodynamic laws.
+- Statistical mechanics and kinetic theory
+- Many-particle systems and statistical correlations
+- Nonequilibrium dynamics and irreversibility
+- Quantum dynamics and entanglement
+- Computational physics and numerical simulation
 
-### 🔍 Thesis Topic:
-**"Investigating the Role of Quantum Correlations in the Boltzmann Equation"**
-- Studying the molecular chaos assumption and its limitations
-- Exploring the possibility of incorporating quantum correlations
-- Analyzing reversibility paradoxes in thermodynamics
+## Master's Thesis
 
----
+### *Revisiting the Conditions of the Boltzmann Equation via the Classical Correlation Function*
 
-## 🛠️ Skills
+**M.Sc. in Condensed Matter Physics**  
+Materials and Energy Research Center (MERC)
 
-### 🔬 Core Courses
-- Advanced Statistical Mechanics
-- Solid State Physics
-- Quantum Mechanics
-- Statistical Thermodynamics
+My master's thesis was a theoretical and analytical study of the role of statistical correlations in the reduced description of many-particle systems.
 
-### 💻 Computational Skills
+The work focused on the **Boltzmann equation**, the **BBGKY hierarchy**, and the role of the two-particle correlation function in the transition from microscopic dynamics to an effective kinetic description.
+
+A particular focus was placed on how eliminating correlation information can lead to **memory effects** in the reduced dynamics, and under what conditions a Markovian description can be obtained. The thesis also examined the connection between the resulting collision dynamics, the linearized operator near equilibrium, the H-function, and effective irreversibility.
+
+The work was carried out with particular attention to the assumptions and approximations underlying the kinetic description, rather than treating irreversibility as a direct consequence of correlations alone.
+
+## Selected Computational Project
+
+### [Quantum Entropy Scaling](https://github.com/AbolfazlAmiri1998/QuantumEntropyScaling)
+
+A computational study of subsystem entanglement dynamics in finite transverse-field Ising chains.
+
+The project explores how the temporal behavior of single-qubit von Neumann entropy changes with system size, with particular attention to finite-size effects and the limits of conclusions drawn from small quantum systems.
+
+- Python-based numerical simulation
+- Quantum time evolution
+- Entanglement entropy analysis
+- Data visualization
+- Automated testing and reproducibility
+
+## Technical Skills
+
 - **Programming:** Python
+- **Scientific Computing:** Numerical simulation, data analysis, visualization
 - **Symbolic Computation:** Mathematica
 - **Scientific Writing:** LaTeX
 
----
+## Education
 
-## 📁 Projects
+**M.Sc. in Condensed Matter Physics**  
+Materials and Energy Research Center (MERC)
 
-### [Quantum States in Phase Space Analysis](https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q)
-Implementation of Wigner and Q functions for various quantum states:
-- 9 fundamental quantum states
-- Mathematica codes + complete documentation
-- Comparison of classical and nonclassical states
+**B.Sc. in Physics**  
+University of Qom
 
-### 📖 Thermodynamics Foundations Study
-- Reviewing McQuarrie and Huang textbooks
-- Studying Boltzmann's paradoxes
-- Investigating irreversibility concepts
+## Contact
 
----
-
-## 🎓 Education
-
-**MSc in Condensed Matter Physics** (5th Semester)  
-Materials & Energy Research Center (MERC), Karaj
-
-**BSc in Physics**  
-University of Qom, Qom
-
----
-
-## 📝 Research Notes
-
-> "Currently deepening my understanding of statistical mechanics foundations and their connection to quantum mechanics. An interesting question I'm exploring is how to extend Boltzmann's description by considering quantum effects."
-
----
-
-## 🌱 Currently...
-
-- 📖 Studying "From Being to Becoming"
-- ✍️ Taking notes from research meetings
-- 🔍 Reviewing papers on Boltzmann paradoxes
-- 💻 Learning computational tools for simulations
-
----
-
-## 📫 Contact
-
-If you're interested in discussing:
-- Foundations of statistical mechanics
-- Boltzmann equation and its extensions
-- Quantum physics
-
-**🔬 Research & Academic:** ab.amiri@merc.ac.il  
-**💼 Personal:** amiriabolfazl1998@gmail.com  
-**🏛️ Institution:** Materials & Energy Research Center (MERC), Karaj  
-**🎓 Position:** MSc Researcher in Condensed Matter Physics
-
----
-
-<div align="center">
-
-*"Still at the beginning of my learning journey, discovering new things every day"*
-
-</div>
+- **Email:** amiriabolfazl1998@gmail.com
+- **GitHub:** [AbolfazlAmiri1998](https://github.com/AbolfazlAmiri1998)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
